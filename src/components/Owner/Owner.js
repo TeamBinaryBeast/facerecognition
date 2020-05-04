@@ -5,7 +5,7 @@ import './Owner.css';
 
 const Owner = () => {
     return (
-        <div className='ma0 mt0 special_info ata'>
+        <div className='ma0 mt0 special_info'>
             <div className='main'>
             <a className="button" href="#popup1">
             <Tilt>

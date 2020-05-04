@@ -7,12 +7,11 @@
 }
 .button{
   position: fixed;
-   top: 90vh;
-    bottom: 0;
-    left: 80vw;
-    right: 0;
-    width: 20vw;
-    height: auto;
+  top: 80;
+  bottom: 0;
+  left: 80;
+  right: 0;
+  z-index: 900;
 }
 .overlay {
     position: fixed;
